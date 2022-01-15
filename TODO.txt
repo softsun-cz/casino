@@ -1,0 +1,4 @@
+- Dice - fix contract (rollDice)
+- Migration script - token.transfer should work also with already deployed contract
+- Create website
+- Add more games

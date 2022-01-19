@@ -5,8 +5,7 @@
 3. Edit .apikey_* files and add your api keys on the first line of each file (* means a name of explorer - e.g.: polygonscan, bscscan ...)
 4. > yarn install
 5. > edit ./migrations/2_deploy_contracts.js and set variables
-6. > ./deploy_[NETWORK NAME]_[NETWORK].sh
-7. > ./verify_[NETWORK NAME]_[NETWORK].sh [CONTRACT NAME 1] [CONTRACT NAME 2] ...
+6. > ./deploy.sh
 
 # Used dependencies
 

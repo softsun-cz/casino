@@ -7,9 +7,9 @@
 /test/
 /bin/*
 /accounts.json
-log_*.txt
 *.log
 .secret
+.secret_git
 .apikey_*
 yarn.lock
 package-lock.json
